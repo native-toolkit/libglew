@@ -1,0 +1,6 @@
+<xml>
+
+    <compilerflag value="-DNATIVE_TOOLKIT_GLEW"/>
+    <compilerflag value="-DGLEW_STATIC"/>
+
+</xml>

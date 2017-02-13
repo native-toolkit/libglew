@@ -1,6 +1,8 @@
 <xml>
 
     <files id="native-toolkit-glew">
+        
+        <cache value="1" />
 
         <compilerflag value="-I${NATIVE_TOOLKIT_PATH}/glew/include/"/>
         <compilerflag value="-DGLEW_STATIC"/>
